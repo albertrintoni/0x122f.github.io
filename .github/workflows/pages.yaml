@@ -1,0 +1,4 @@
+run: |
+  hugo \
+    --gc --minify \
+    --baseURL "https://0x122f.github.io/"
